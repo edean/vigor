@@ -7,3 +7,5 @@ dependencies:
   - pandas
   - matplotlib
   - psycopg2
+  - pip:
+    - django=2.0.1
