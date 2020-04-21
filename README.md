@@ -1,6 +1,6 @@
 # Vigor
 
-## Software Development Framework
+## Framework
 
   * Python 3.6.3 (Anaconda)
   * Postgresql 9.5.10 (postgresql, postgresql-contrib, libpq-dev)
